@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 10 17:17:14 2024
-
-@author: joaquingd
-"""
-
 import pandas as pd
 import haversine as hs
 
