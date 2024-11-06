@@ -1,0 +1,1 @@
+This is the code for my Técnicas Algorítmicas class coursework. We were tasked with implementing both a backtracking and heuristic approach to optimize the dispersion of veterinary clinics in the city of Buenos Aires. Given a combination of clinics, we sought to maximize the distance between each pair. 
